@@ -13,7 +13,7 @@ namespace AssetManagment
         {
             string[] fileLines = File.ReadLines(filePath).ToArray();
 
-            foreach(string line in fileLines)
+            foreach (string line in fileLines)
             {
                 CheckedOutItem checkedOutItem = CreateCheckedOutItemFromLine(line);
                 list.AddLast(checkedOutItem);
@@ -21,7 +21,7 @@ namespace AssetManagment
         }
 
         public CheckedOutItem CreateCheckedOutItemFromLine(string line)
-        { 
+        {
             string[] items = line.Split(',');
 
             CheckedOutItem checkedOutItem = new CheckedOutItem(items[0], items[1], items[2], items[3], items[4], items[5], items[6]);
@@ -36,7 +36,7 @@ namespace AssetManagment
 
         public CheckedOutItem SearchList(string asuriteId)
         {
-            foreach(CheckedOutItem listItem in list)
+            foreach (CheckedOutItem listItem in list)
             {
                 if (listItem.asuriteId.Equals(asuriteId))
                 {
@@ -54,7 +54,7 @@ namespace AssetManagment
 
         public void SaveLinkedList(string filePath) //should be called when program is closed
         {
-            foreach(CheckedOutItem listItem in list)
+            foreach (CheckedOutItem listItem in list)
             {
                 using (StreamWriter sw = File.AppendText(filePath))
                 {
@@ -64,3 +64,4 @@ namespace AssetManagment
         }
     }
 }
+ment/AssetManagment/AppMethods.cs

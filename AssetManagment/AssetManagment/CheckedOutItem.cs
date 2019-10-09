@@ -13,7 +13,7 @@ namespace AssetManagment
         public string reason;
         public string loandedDate;
         public string adapterName;
-        
+
         public CheckedOutItem(string name, string asuriteId, string email, string phoneNumber, string reason, string loandedDate, string adapterName)
         {
             this.name = name;
@@ -29,7 +29,7 @@ namespace AssetManagment
         {
             return $"{name},{asuriteId},{email},{phoneNumber},{reason},{loandedDate},{adapterName}";
         }
-        
+
     }
 
 }
