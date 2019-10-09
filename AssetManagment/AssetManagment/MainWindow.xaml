@@ -1,0 +1,20 @@
+﻿<Window x:Class="AssetManagment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AssetManagment"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Height="35" VerticalAlignment="Top">
+            <Button Content="Return Item" MinWidth="100" Click="ReturnAnItem" />
+            <Button Content="Check Out Item" MinWidth="100" Margin="10,0,0,0" Click="ClickCheckout" />
+            <Button Content="Search User" MinWidth="100" Margin="10,0,0,0" Click="SearchForUser" />
+            <Button Content="Add New Item" MinWidth="100" Margin="10,0,0,0" Click="AddNewConsumable" />
+            <Button Content="Remove Item" MinWidth="100" Margin="10,0,0,0" Click="RemoveItemFromList"/>
+        </StackPanel>
+        <Frame x:Name="Main" Margin="0,35,0,0"/>
+
+    </Grid>
+</Window>
