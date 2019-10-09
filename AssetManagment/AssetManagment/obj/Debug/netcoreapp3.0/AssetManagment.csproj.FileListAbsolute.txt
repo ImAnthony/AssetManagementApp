@@ -19,3 +19,24 @@ C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetMan
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\ReturnItem.g.cs
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutItem.baml
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\ReturnItem.baml
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.csprojAssemblyReference.cache
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutItem.g.cs
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\ReturnItem.g.cs
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment_MarkupCompile.cache
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment_MarkupCompile.lref
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.dll
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.pdb
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\bin\Debug\netcoreapp3.0\AssetManagment.exe
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\bin\Debug\netcoreapp3.0\AssetManagment.deps.json
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\bin\Debug\netcoreapp3.0\AssetManagment.runtimeconfig.json
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\bin\Debug\netcoreapp3.0\AssetManagment.runtimeconfig.dev.json
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\bin\Debug\netcoreapp3.0\AssetManagment.dll
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\bin\Debug\netcoreapp3.0\AssetManagment.pdb
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutItem.baml
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\ReturnItem.baml
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.g.resources
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.AssemblyInfoInputs.cache
+C:\Users\mmwoodfo\Dropbox (ASU)\AssetManagementApp\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.AssemblyInfo.cs

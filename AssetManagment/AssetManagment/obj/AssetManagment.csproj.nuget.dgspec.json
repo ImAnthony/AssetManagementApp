@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\AssetManagment.csproj": {}
+    "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\AssetManagment.csproj": {
+    "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
+        "projectUniqueName": "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
         "projectName": "AssetManagment",
-        "projectPath": "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
-        "packagesPath": "C:\\Users\\afranqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\obj\\",
+        "projectPath": "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
+        "packagesPath": "C:\\Users\\mmwoodfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\afranqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mmwoodfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

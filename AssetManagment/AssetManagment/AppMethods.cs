@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
+using System.IO;
 
 namespace AssetManagment
 {
@@ -9,7 +9,8 @@ namespace AssetManagment
     {
         private LinkedList<CheckedOutItem> list = new LinkedList<CheckedOutItem>();
 
-        public void LoadLinkedList(string filePath) //should be called when program is opened
+        //should be called when program is opened
+        public void LoadLinkedList(string filePath) 
         {
             string[] fileLines = File.ReadLines(filePath).ToArray();
 
@@ -52,7 +53,8 @@ namespace AssetManagment
             list.Remove(SearchList(asuriteId));
         }
 
-        public void SaveLinkedList(string filePath) //should be called when program is closed
+        //should be called when program is closed
+        public void SaveLinkedList(string filePath) 
         {
             foreach (CheckedOutItem listItem in list)
             {
@@ -64,4 +66,3 @@ namespace AssetManagment
         }
     }
 }
-ment/AssetManagment/AppMethods.cs
