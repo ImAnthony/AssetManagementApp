@@ -6,9 +6,24 @@
       xmlns:local="clr-namespace:AssetManagment"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
+      Background="White"
       Title="CheckOutItem">
 
     <Grid>
-        <TextBlock Text="Check Out Item" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Text="Check Out Item" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,29,0,0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,90,0,0" Text="User's Name"  VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,120,0,0" Text="ASU Rite"  VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,150,0,0" Text="Phone Number"  VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,180,0,0" Text="Loanded Date"  VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,210,0,0" Text="Adapter Type (drop Down menu)"  VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,240,0,0" Text="Reason/Use"  VerticalAlignment="Top"/>
+
+        <Button Content="Check Out" HorizontalAlignment="Center" Margin="0,350,0,0" VerticalAlignment="Top" Click="getInfo"/>
+
+        <TextBox HorizontalAlignment="Left" Margin="239,90,0,0" Text="UserName" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Opacity="0.5" Name="userName"/>
+        <TextBox HorizontalAlignment="Left" Margin="239,120,0,0" Text="ASU Rite" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Opacity="0.5" Name="asuRIte"/>
+        <TextBox HorizontalAlignment="Left" Margin="239,150,0,0" Text="Phone Number" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Opacity="0.5" Name="phoneNumber"/>
+        <TextBox HorizontalAlignment="Left" Margin="239,180,0,0" Text="UserName" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Opacity="0.5" Name="loanedDate"/>
+        <TextBox HorizontalAlignment="Left" Margin="239,240,0,0" Text="UserName" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Opacity="0.5" Name="reason" Height="58"/>
     </Grid>
 </Page>

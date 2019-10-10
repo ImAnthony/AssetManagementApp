@@ -22,5 +22,12 @@ namespace AssetManagment
         {
             InitializeComponent();
         }
+
+        private void getInfo(object sender, RoutedEventArgs e)
+        {
+            string uName = userName.Text;
+            System.Diagnostics.Debug.WriteLine(uName);
+        }
+        
     }
 }

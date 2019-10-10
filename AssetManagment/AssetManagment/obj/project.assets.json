@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mmwoodfo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\afranqui\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
+      "projectUniqueName": "C:\\Users\\afranqui\\Desktop\\M3M3S\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
       "projectName": "AssetManagment",
-      "projectPath": "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
-      "packagesPath": "C:\\Users\\mmwoodfo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmwoodfo\\Dropbox (ASU)\\AssetManagementApp\\AssetManagment\\AssetManagment\\obj\\",
+      "projectPath": "C:\\Users\\afranqui\\Desktop\\M3M3S\\AssetManagementApp\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
+      "packagesPath": "C:\\Users\\afranqui\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\afranqui\\Desktop\\M3M3S\\AssetManagementApp\\AssetManagment\\AssetManagment\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mmwoodfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\afranqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
